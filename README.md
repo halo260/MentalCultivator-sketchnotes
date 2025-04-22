@@ -13,11 +13,7 @@ This repository features **sketchnotes** — hand-drawn summaries of books and T
 
 ---
 
-### 2. *The Subtle Art of Not Giving a F*ck* – Mark Manson  
-
----
-
-### 3. *Why We Sleep* – Matthew Walker  
+### 2. *Why We Sleep* – Matthew Walker  
 
 ---
 
